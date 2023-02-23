@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+France;I'm+19+years+old;I'm+from+Brazil;I'm+Learning+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+De+Sousa+Matos;I'm+42+years+old;I'm+from+Brazil;I'm+Learning+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔦 I'm currently looking my first job.
-- 🌱 I’m currently learning JavaScript, Ruby, Java, Dart and Flutter.
+- 🌱 I’m currently learning Python.
 - ⚡ Fun fact: Did you know that everyone who is in high positions today was once a beginner and also needed the first opportunity to get where they are today?       #hirejuniors
 
 ## Studying in this moment:
